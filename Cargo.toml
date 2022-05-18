@@ -1,0 +1,2 @@
+[workspace]
+members = ["ch05-02-dp"]
